@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,optionD,correctAnswerIndex
+"p5.js是什麼？", "JavaScript 函式庫", "CSS 框架", "Python 套件", "一種咖啡",0
+"哪個函式在p5.js中只會執行一次？", "draw()", "loop()", "setup()", "preload()",2
+"如何在p5.js中畫一個圓形？", "rect(x, y, w, h)", "circle(x, y, d)", "line(x1, y1, x2, y2)", "point(x, y)",1
+"用什麼變數來儲存滑鼠的X座標？", "mouseY", "pmouseX", "mouseX", "key",2
+"哪個函式用來載入外部檔案（如圖片或CSV）？", "loadFile()", "setup()", "draw()", "preload()",3
